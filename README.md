@@ -11,7 +11,7 @@ Currently there is only a private, as-yet unpublished dataset describing a set o
 To see profilyzer in action, a live instance of this particular dataset can be found at [this page](http://research.ncl.ac.uk/Dubarry2015).  Alternatively, you can download the code & data from this repository and run a local session.
 
 To run profilyzer in a local session: 
-* Open R session and set the current working directory to the profilyzer directory
+* Open R session and set the current working directory to the one just above the profilyzer_Dubarry2015 directory
 * Ensure that you have shiny installed.  If you do not, then execute the following in the R terminal: `install.packages("shiny")`
 * Load the shiny library by executing the following in the R terminal: `library("shiny")`
 * Finally, use profilyzer to browse the included LydallLab dataset: `runApp("profilyzer_Dubarry2015")`
