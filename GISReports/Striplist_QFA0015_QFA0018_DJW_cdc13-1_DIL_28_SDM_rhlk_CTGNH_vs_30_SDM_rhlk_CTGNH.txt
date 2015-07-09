@@ -1,0 +1,431 @@
+ORF	Gene	Reason
+YDL227C	HO	Linkage with YDL220C_CDC13
+YDL226C	GCS1	Linkage with YDL220C_CDC13
+YDL224C	WHI4	Linkage with YDL220C_CDC13
+YDL223C	HBT1	Linkage with YDL220C_CDC13
+YDL222C	FMP45	Linkage with YDL220C_CDC13
+YDL220C	CDC13	Linkage with YDL220C_CDC13
+YDL219W	DTD1	Linkage with YDL220C_CDC13
+YDL218W	YDL218W	Linkage with YDL220C_CDC13
+YDL217C	TIM22	Linkage with YDL220C_CDC13
+YDL216C	RRI1	Linkage with YDL220C_CDC13
+YDL215C	GDH2	Linkage with YDL220C_CDC13
+YDL214C	PRR2	Linkage with YDL220C_CDC13
+YDL213C	NOP6	Linkage with YDL220C_CDC13
+YDL212W	SHR3	Linkage with YDL220C_CDC13
+YDL211C	YDL211C	Linkage with YDL220C_CDC13
+YNL275W	BOR1	Linkage with YNL268W_LYP1
+YNL274C	GOR1	Linkage with YNL268W_LYP1
+YNL273W	TOF1	Linkage with YNL268W_LYP1
+YNL272C	SEC2	Linkage with YNL268W_LYP1
+YNL271C	BNI1	Linkage with YNL268W_LYP1
+YNL270C	ALP1	Linkage with YNL268W_LYP1
+YNL268W	LYP1	Linkage with YNL268W_LYP1
+YNL267W	PIK1	Linkage with YNL268W_LYP1
+YNL266W	YNL266W	Linkage with YNL268W_LYP1
+YNL265C	IST1	Linkage with YNL268W_LYP1
+YNL263C	YIF1	Linkage with YNL268W_LYP1
+YNL262W	POL2	Linkage with YNL268W_LYP1
+YNL261W	ORC5	Linkage with YNL268W_LYP1
+YNL260C	LTO1	Linkage with YNL268W_LYP1
+YNL259C	ATX1	Linkage with YNL268W_LYP1
+YEL071W	DLD3	Linkage with YEL063C_CAN1
+YEL068C	YEL068C	Linkage with YEL063C_CAN1
+YEL066W	HPA3	Linkage with YEL063C_CAN1
+YEL067C	YEL067C	Linkage with YEL063C_CAN1
+YEL065W	SIT1	Linkage with YEL063C_CAN1
+YEL064C	AVT2	Linkage with YEL063C_CAN1
+YEL063C	CAN1	Linkage with YEL063C_CAN1
+YEL062W	NPR2	Linkage with YEL063C_CAN1
+YEL061C	CIN8	Linkage with YEL063C_CAN1
+YEL060C	PRB1	Linkage with YEL063C_CAN1
+YEL059W	HHY1	Linkage with YEL063C_CAN1
+YEL058W	PCM1	Linkage with YEL063C_CAN1
+YEL057C	YEL057C	Linkage with YEL063C_CAN1
+YEL056W	HAT2	Linkage with YEL063C_CAN1
+YEL055C	POL5	Linkage with YEL063C_CAN1
+YBR089W	YBR089W	Manually stripped LHS Fitness Plot
+YBR190W	YBR190W	Manually stripped LHS Fitness Plot
+YDL041W	YDL041W	Manually stripped LHS Fitness Plot
+YDR355C	YDR355C	Manually stripped LHS Fitness Plot
+YGL214W	YGL214W	Manually stripped LHS Fitness Plot
+YLL044W	YLL044W	Manually stripped LHS Fitness Plot
+YLR076C	YLR076C	Manually stripped LHS Fitness Plot
+YOR302W	YOR302W	Manually stripped LHS Fitness Plot
+YGL105W	ARC1	Manually stripped LHS Fitness Plot
+YDL004W	ATP16	Manually stripped LHS Fitness Plot
+YGL130W	CEG1	Manually stripped LHS Fitness Plot
+YOR303W	CPA1	Manually stripped LHS Fitness Plot
+YJR109C	CPA2	Manually stripped LHS Fitness Plot
+YDL160C	DHH1	Manually stripped LHS Fitness Plot
+YHR059W	FYV4	Manually stripped LHS Fitness Plot
+YLR088W	GAA1	Manually stripped LHS Fitness Plot
+YGR191W	HIP1	Manually stripped LHS Fitness Plot
+YIL125W	KGD1	Manually stripped LHS Fitness Plot
+YHR194W	MDM31	Manually stripped LHS Fitness Plot
+YDR461W	MFA1	Manually stripped LHS Fitness Plot
+YOL115W	PAP2	Manually stripped LHS Fitness Plot
+YDL090C	RAM1	Manually stripped LHS Fitness Plot
+YJL204C	RCY1	Manually stripped LHS Fitness Plot
+YMR235C	RNA1	Manually stripped LHS Fitness Plot
+YOL005C	RPB11	Manually stripped LHS Fitness Plot
+YGL123W	RPS2	Manually stripped LHS Fitness Plot
+YBL025W	RRN10	Manually stripped LHS Fitness Plot
+YLR357W	RSC2	Manually stripped LHS Fitness Plot
+YDL042C	SIR2	Manually stripped LHS Fitness Plot
+YLR442C	SIR3	Manually stripped LHS Fitness Plot
+YDR227W	SIR4	Manually stripped LHS Fitness Plot
+YDL052C	SLC1	Manually stripped LHS Fitness Plot
+YLR362W	STE11	Manually stripped LHS Fitness Plot
+YDR410C	STE14	Manually stripped LHS Fitness Plot
+YFL026W	STE2	Manually stripped LHS Fitness Plot
+YHL007C	STE20	Manually stripped LHS Fitness Plot
+YOR212W	STE4	Manually stripped LHS Fitness Plot
+YDR103W	STE5	Manually stripped LHS Fitness Plot
+YDL159W	STE7	Manually stripped LHS Fitness Plot
+YMR146C	TIF34	Manually stripped LHS Fitness Plot
+YIL011W	TIR3	Manually stripped LHS Fitness Plot
+YGL026C	TRP5	Manually stripped LHS Fitness Plot
+YMR038C	CCS1	Manually stripped LHS Fitness Plot
+YDR173C	ARG82	Manually stripped Common
+YER069W	ARG5	Manually stripped Common
+YHR018C	ARG4	Manually stripped Common
+YJL071W	ARG2	Manually stripped Common
+YJL088W	ARG3	Manually stripped Common
+YML099C	ARG81	Manually stripped Common
+YMR042W	ARG80	Manually stripped Common
+YOL058W	ARG1	Manually stripped Common
+YBR248C	HIS7	Manually stripped Common
+YCL030C	HIS4	Manually stripped Common
+YFR025C	HIS2	Manually stripped Common
+YER055C	HIS1	Manually stripped Common
+YIL020C	HIS6	Manually stripped Common
+YIL116W	HIS5	Manually stripped Common
+YGL009C	LEU1	Manually stripped Common
+YLR451W	LEU3	Manually stripped Common
+YNL104C	LEU4	Manually stripped Common
+YOR108W	LEU9	Manually stripped Common
+YBR115C	LYS2	Manually stripped Common
+YDL131W	LYS21	Manually stripped Common
+YDL182W	LYS20	Manually stripped Common
+YDR034C	LYS14	Manually stripped Common
+YDR234W	LYS4	Manually stripped Common
+YGL154C	LYS5	Manually stripped Common
+YIL094C	LYS12	Manually stripped Common
+YIR034C	LYS1	Manually stripped Common
+YNR050C	LYS9	Manually stripped Common
+YMR038C	CCS1	Manually stripped Common
+YAL048C	GEM1	Manually stripped Missing from plate in QFA0018
+YBL007C	SLA1	Manually stripped Missing from plate in QFA0018
+YBL025W	RRN10	Manually stripped Missing from plate in QFA0018
+YBL094C	YBL094C	Manually stripped Missing from plate in QFA0018
+YBR019C	GAL10	Manually stripped Missing from plate in QFA0018
+YBR026C	ETR1	Manually stripped Missing from plate in QFA0018
+YBR030W	RKM3	Manually stripped Missing from plate in QFA0018
+YBR036C	CSG2	Manually stripped Missing from plate in QFA0018
+YBR089W	YBR089W	Manually stripped Missing from plate in QFA0018
+YBR109C	CMD1	Manually stripped Missing from plate in QFA0018
+YBR115C	LYS2	Manually stripped Missing from plate in QFA0018
+YBR122C	MRPL36	Manually stripped Missing from plate in QFA0018
+YBR190W	YBR190W	Manually stripped Missing from plate in QFA0018
+YBR221C	PDB1	Manually stripped Missing from plate in QFA0018
+YBR248C	HIS7	Manually stripped Missing from plate in QFA0018
+YBR289W	SNF5	Manually stripped Missing from plate in QFA0018
+YCL030C	HIS4	Manually stripped Missing from plate in QFA0018
+YCL037C	SRO9	Manually stripped Missing from plate in QFA0018
+YCL059C	KRR1	Manually stripped Missing from plate in QFA0018
+YCR008W	SAT4	Manually stripped Missing from plate in QFA0018
+YCR009C	RVS161	Manually stripped Missing from plate in QFA0018
+YCR028C-A	RIM1	Manually stripped Missing from plate in QFA0018
+YCR053W	THR4	Manually stripped Missing from plate in QFA0018
+YCR063W	BUD31	Manually stripped Missing from plate in QFA0018
+YDL004W	ATP16	Manually stripped Missing from plate in QFA0018
+YDL006W	PTC1	Manually stripped Missing from plate in QFA0018
+YDL033C	SLM3	Manually stripped Missing from plate in QFA0018
+YDL035C	GPR1	Manually stripped Missing from plate in QFA0018
+YDL041W	YDL041W	Manually stripped Missing from plate in QFA0018
+YDL042C	SIR2	Manually stripped Missing from plate in QFA0018
+YDL052C	SLC1	Manually stripped Missing from plate in QFA0018
+YDL077C	VAM6	Manually stripped Missing from plate in QFA0018
+YDL090C	RAM1	Manually stripped Missing from plate in QFA0018
+YDL143W	CCT4	Manually stripped Missing from plate in QFA0018
+YDL159W	STE7	Manually stripped Missing from plate in QFA0018
+YDL160C	DHH1	Manually stripped Missing from plate in QFA0018
+YDL163W	YDL163W	Manually stripped Missing from plate in QFA0018
+YDL223C	HBT1	Manually stripped Missing from plate in QFA0018
+YDL232W	OST4	Manually stripped Missing from plate in QFA0018
+YDL243C	AAD4	Manually stripped Missing from plate in QFA0018
+YDR043C	NRG1	Manually stripped Missing from plate in QFA0018
+YDR053W	YDR053W	Manually stripped Missing from plate in QFA0018
+YDR080W	VPS41	Manually stripped Missing from plate in QFA0018
+YDR103W	STE5	Manually stripped Missing from plate in QFA0018
+YDR164C	SEC1	Manually stripped Missing from plate in QFA0018
+YDR167W	TAF10	Manually stripped Missing from plate in QFA0018
+YDR173C	ARG82	Manually stripped Missing from plate in QFA0018
+YDR227W	SIR4	Manually stripped Missing from plate in QFA0018
+YDR233C	RTN1	Manually stripped Missing from plate in QFA0018
+YDR234W	LYS4	Manually stripped Missing from plate in QFA0018
+YDR245W	MNN10	Manually stripped Missing from plate in QFA0018
+YDR248C	YDR248C	Manually stripped Missing from plate in QFA0018
+YDR274C	YDR274C	Manually stripped Missing from plate in QFA0018
+YDR276C	PMP3	Manually stripped Missing from plate in QFA0018
+YDR293C	SSD1	Manually stripped Missing from plate in QFA0018
+YDR355C	YDR355C	Manually stripped Missing from plate in QFA0018
+YDR358W	GGA1	Manually stripped Missing from plate in QFA0018
+YDR359C	EAF1	Manually stripped Missing from plate in QFA0018
+YDR375C	BCS1	Manually stripped Missing from plate in QFA0018
+YDR388W	RVS167	Manually stripped Missing from plate in QFA0018
+YDR392W	SPT3	Manually stripped Missing from plate in QFA0018
+YDR410C	STE14	Manually stripped Missing from plate in QFA0018
+YDR429C	TIF35	Manually stripped Missing from plate in QFA0018
+YDR455C	:::GUK1	Manually stripped Missing from plate in QFA0018
+YDR461W	MFA1	Manually stripped Missing from plate in QFA0018
+YDR477W	SNF1	Manually stripped Missing from plate in QFA0018
+YDR526C	YDR526C	Manually stripped Missing from plate in QFA0018
+YEL063C	CAN1	Manually stripped Missing from plate in QFA0018
+YER055C	HIS1	Manually stripped Missing from plate in QFA0018
+YER061C	CEM1	Manually stripped Missing from plate in QFA0018
+YER069W	ARG5	Manually stripped Missing from plate in QFA0018
+YER083C	GET2	Manually stripped Missing from plate in QFA0018
+YER178W	PDA1	Manually stripped Missing from plate in QFA0018
+YFL013C	IES1	Manually stripped Missing from plate in QFA0018
+YFL018C	LPD1	Manually stripped Missing from plate in QFA0018
+YFL026W	STE2	Manually stripped Missing from plate in QFA0018
+YFL031W	HAC1	Manually stripped Missing from plate in QFA0018
+YFL032W	YFL032W	Manually stripped Missing from plate in QFA0018
+YFL033C	RIM15	Manually stripped Missing from plate in QFA0018
+YFL036W	RPO41	Manually stripped Missing from plate in QFA0018
+YFL054C	YFL054C	Manually stripped Missing from plate in QFA0018
+YFR010W	UBP6	Manually stripped Missing from plate in QFA0018
+YFR025C	HIS2	Manually stripped Missing from plate in QFA0018
+YGL009C	LEU1	Manually stripped Missing from plate in QFA0018
+YGL018C	JAC1	Manually stripped Missing from plate in QFA0018
+YGL024W	YGL024W	Manually stripped Missing from plate in QFA0018
+YGL026C	TRP5	Manually stripped Missing from plate in QFA0018
+YGL069C	YGL069C	Manually stripped Missing from plate in QFA0018
+YGL080W	FMP37	Manually stripped Missing from plate in QFA0018
+YGL081W	YGL081W	Manually stripped Missing from plate in QFA0018
+YGL092W	NUP145	Manually stripped Missing from plate in QFA0018
+YGL105W	ARC1	Manually stripped Missing from plate in QFA0018
+YGL110C	CUE3	Manually stripped Missing from plate in QFA0018
+YGL115W	SNF4	Manually stripped Missing from plate in QFA0018
+YGL123W	RPS2	Manually stripped Missing from plate in QFA0018
+YGL130W	CEG1	Manually stripped Missing from plate in QFA0018
+YGL136C	MRM2	Manually stripped Missing from plate in QFA0018
+YGL151W	NUT1	Manually stripped Missing from plate in QFA0018
+YGL154C	LYS5	Manually stripped Missing from plate in QFA0018
+YGL168W	HUR1	Manually stripped Missing from plate in QFA0018
+YGL196W	DSD1	Manually stripped Missing from plate in QFA0018
+YGL201C	MCM6	Manually stripped Missing from plate in QFA0018
+YGL212W	VAM7	Manually stripped Missing from plate in QFA0018
+YGL214W	YGL214W	Manually stripped Missing from plate in QFA0018
+YGL218W	YGL218W	Manually stripped Missing from plate in QFA0018
+YGL255W	ZRT1	Manually stripped Missing from plate in QFA0018
+YGR048W	UFD1	Manually stripped Missing from plate in QFA0018
+YGR061C	ADE6	Manually stripped Missing from plate in QFA0018
+YGR078C	PAC10	Manually stripped Missing from plate in QFA0018
+YGR097W	ASK10	Manually stripped Missing from plate in QFA0018
+YGR105W	VMA21	Manually stripped Missing from plate in QFA0018
+YGR191W	HIP1	Manually stripped Missing from plate in QFA0018
+YGR246C	BRF1	Manually stripped Missing from plate in QFA0018
+YHL007C	STE20	Manually stripped Missing from plate in QFA0018
+YHL025W	SNF6	Manually stripped Missing from plate in QFA0018
+YHR018C	ARG4	Manually stripped Missing from plate in QFA0018
+YHR025W	THR1	Manually stripped Missing from plate in QFA0018
+YHR059W	FYV4	Manually stripped Missing from plate in QFA0018
+YHR067W	HTD2	Manually stripped Missing from plate in QFA0018
+YHR070W	TRM5	Manually stripped Missing from plate in QFA0018
+YHR079C	IRE1	Manually stripped Missing from plate in QFA0018
+YHR083W	SAM35	Manually stripped Missing from plate in QFA0018
+YHR164C	DNA2	Manually stripped Missing from plate in QFA0018
+YHR180W	YHR180W	Manually stripped Missing from plate in QFA0018
+YHR189W	PTH1	Manually stripped Missing from plate in QFA0018
+YHR193C	EGD2	Manually stripped Missing from plate in QFA0018
+YHR194W	MDM31	Manually stripped Missing from plate in QFA0018
+YIL011W	TIR3	Manually stripped Missing from plate in QFA0018
+YIL021W	RPB3	Manually stripped Missing from plate in QFA0018
+YIL036W	CST6	Manually stripped Missing from plate in QFA0018
+YIL054W	YIL054W	Manually stripped Missing from plate in QFA0018
+YIL076W	SEC28	Manually stripped Missing from plate in QFA0018
+YIL094C	LYS12	Manually stripped Missing from plate in QFA0018
+YIL110W	HPM1	Manually stripped Missing from plate in QFA0018
+YIL116W	HIS5	Manually stripped Missing from plate in QFA0018
+YIL125W	KGD1	Manually stripped Missing from plate in QFA0018
+YIL134W	FLX1	Manually stripped Missing from plate in QFA0018
+YIL144W	NDC80	Manually stripped Missing from plate in QFA0018
+YIL147C	SLN1	Manually stripped Missing from plate in QFA0018
+YIL150C	MCM10	Manually stripped Missing from plate in QFA0018
+YIR034C	LYS1	Manually stripped Missing from plate in QFA0018
+YJL007C	YJL007C	Manually stripped Missing from plate in QFA0018
+YJL009W	YJL009W	Manually stripped Missing from plate in QFA0018
+YJL029C	VPS53	Manually stripped Missing from plate in QFA0018
+YJL030W	MAD2	Manually stripped Missing from plate in QFA0018
+YJL032W	YJL032W	Manually stripped Missing from plate in QFA0018
+YJL046W	AIM22	Manually stripped Missing from plate in QFA0018
+YJL071W	ARG2	Manually stripped Missing from plate in QFA0018
+YJL076W	NET1	Manually stripped Missing from plate in QFA0018
+YJL088W	ARG3	Manually stripped Missing from plate in QFA0018
+YJL101C	GSH1	Manually stripped Missing from plate in QFA0018
+YJR073C	OPI3	Manually stripped Missing from plate in QFA0018
+YJR090C	GRR1	Manually stripped Missing from plate in QFA0018
+YJR109C	CPA2	Manually stripped Missing from plate in QFA0018
+YKL041W	VPS24	Manually stripped Missing from plate in QFA0018
+YKL048C	ELM1	Manually stripped Missing from plate in QFA0018
+YKL053C-A	MDM35	Manually stripped Missing from plate in QFA0018
+YKL055C	OAR1	Manually stripped Missing from plate in QFA0018
+YKL066W	YKL066W	Manually stripped Missing from plate in QFA0018
+YKL083W	YKL083W	Manually stripped Missing from plate in QFA0018
+YKL101W	HSL1	Manually stripped Missing from plate in QFA0018
+YKL122C	SRP21	Manually stripped Missing from plate in QFA0018
+YKL192C	ACP1	Manually stripped Missing from plate in QFA0018
+YKL212W	SAC1	Manually stripped Missing from plate in QFA0018
+YKL213C	DOA1	Manually stripped Missing from plate in QFA0018
+YKR001C	VPS1	Manually stripped Missing from plate in QFA0018
+YKR020W	VPS51	Manually stripped Missing from plate in QFA0018
+YKR035C	OPI8	Manually stripped Missing from plate in QFA0018
+YLL003W	SFI1	Manually stripped Missing from plate in QFA0018
+YLL009C	COX17	Manually stripped Missing from plate in QFA0018
+YLL037W	YLL037W	Manually stripped Missing from plate in QFA0018
+YLL039C	UBI4	Manually stripped Missing from plate in QFA0018
+YLL044W	YLL044W	Manually stripped Missing from plate in QFA0018
+YLL050C	COF1	Manually stripped Missing from plate in QFA0018
+YLR039C	RIC1	Manually stripped Missing from plate in QFA0018
+YLR046C	YLR046C	Manually stripped Missing from plate in QFA0018
+YLR065C	ENV10	Manually stripped Missing from plate in QFA0018
+YLR066W	SPC3	Manually stripped Missing from plate in QFA0018
+YLR076C	YLR076C	Manually stripped Missing from plate in QFA0018
+YLR088W	GAA1	Manually stripped Missing from plate in QFA0018
+YLR127C	APC2	Manually stripped Missing from plate in QFA0018
+YLR140W	YLR140W	Manually stripped Missing from plate in QFA0018
+YLR167W	RPS31	Manually stripped Missing from plate in QFA0018
+YLR184W	YLR184W	Manually stripped Missing from plate in QFA0018
+YLR198C	YLR198C	Manually stripped Missing from plate in QFA0018
+YLR218C	COA4	Manually stripped Missing from plate in QFA0018
+YLR230W	YLR230W	Manually stripped Missing from plate in QFA0018
+YLR239C	LIP2	Manually stripped Missing from plate in QFA0018
+YLR315W	NKP2	Manually stripped Missing from plate in QFA0018
+YLR317W	YLR317W	Manually stripped Missing from plate in QFA0018
+YLR318W	EST2	Manually stripped Missing from plate in QFA0018
+YLR321C	SFH1	Manually stripped Missing from plate in QFA0018
+YLR329W	REC102	Manually stripped Missing from plate in QFA0018
+YLR337C	VRP1	Manually stripped Missing from plate in QFA0018
+YLR338W	OPI9	Manually stripped Missing from plate in QFA0018
+YLR357W	RSC2	Manually stripped Missing from plate in QFA0018
+YLR362W	STE11	Manually stripped Missing from plate in QFA0018
+YLR386W	VAC14	Manually stripped Missing from plate in QFA0018
+YLR428C	YLR428C	Manually stripped Missing from plate in QFA0018
+YLR434C	YLR434C	Manually stripped Missing from plate in QFA0018
+YLR442C	SIR3	Manually stripped Missing from plate in QFA0018
+YML006C	GIS4	Manually stripped Missing from plate in QFA0018
+YML008C	ERG6	Manually stripped Missing from plate in QFA0018
+YML028W	TSA1	Manually stripped Missing from plate in QFA0018
+YML031W	NDC1	Manually stripped Missing from plate in QFA0018
+YML034W	SRC1	Manually stripped Missing from plate in QFA0018
+YML051W	GAL80	Manually stripped Missing from plate in QFA0018
+YML066C	SMA2	Manually stripped Missing from plate in QFA0018
+YML111W	BUL2	Manually stripped Missing from plate in QFA0018
+YML129C	COX14	Manually stripped Missing from plate in QFA0018
+YMR003W	AIM34	Manually stripped Missing from plate in QFA0018
+YMR029C	FAR8	Manually stripped Missing from plate in QFA0018
+YMR038C	CCS1	Manually stripped Missing from plate in QFA0018
+YMR047C	NUP116	Manually stripped Missing from plate in QFA0018
+YMR052C-A	YMR052C-A	Manually stripped Missing from plate in QFA0018
+YMR052W	FAR3	Manually stripped Missing from plate in QFA0018
+YMR067C	UBX4	Manually stripped Missing from plate in QFA0018
+YMR143W	RPS16A	Manually stripped Missing from plate in QFA0018
+YMR146C	TIF34	Manually stripped Missing from plate in QFA0018
+YMR165C	PAH1	Manually stripped Missing from plate in QFA0018
+YMR202W	ERG2	Manually stripped Missing from plate in QFA0018
+YMR207C	HFA1	Manually stripped Missing from plate in QFA0018
+YMR224C	MRE11	Manually stripped Missing from plate in QFA0018
+YMR235C	RNA1	Manually stripped Missing from plate in QFA0018
+YMR282C	AEP2	Manually stripped Missing from plate in QFA0018
+YMR307W	GAS1	Manually stripped Missing from plate in QFA0018
+YMR309C	NIP1	Manually stripped Missing from plate in QFA0018
+YNL003C	PET8	Manually stripped Missing from plate in QFA0018
+YNL056W	OCA2	Manually stripped Missing from plate in QFA0018
+YNL064C	YDJ1	Manually stripped Missing from plate in QFA0018
+YNL071W	LAT1	Manually stripped Missing from plate in QFA0018
+YNL072W	RNH201	Manually stripped Missing from plate in QFA0018
+YNL081C	SWS2	Manually stripped Missing from plate in QFA0018
+YNL087W	TCB2	Manually stripped Missing from plate in QFA0018
+YNL099C	OCA1	Manually stripped Missing from plate in QFA0018
+YNL114C	YNL114C	Manually stripped Missing from plate in QFA0018
+YNL169C	PSD1	Manually stripped Missing from plate in QFA0018
+YNL170W	YNL170W	Manually stripped Missing from plate in QFA0018
+YNL183C	NPR1	Manually stripped Missing from plate in QFA0018
+YNL197C	WHI3	Manually stripped Missing from plate in QFA0018
+YNL236W	SIN4	Manually stripped Missing from plate in QFA0018
+YNL257C	SIP3	Manually stripped Missing from plate in QFA0018
+YNL267W	PIK1	Manually stripped Missing from plate in QFA0018
+YNL268W	LYP1	Manually stripped Missing from plate in QFA0018
+YNL270C	ALP1	Manually stripped Missing from plate in QFA0018
+YNL271C	BNI1	Manually stripped Missing from plate in QFA0018
+YNL272C	SEC2	Manually stripped Missing from plate in QFA0018
+YNL273W	TOF1	Manually stripped Missing from plate in QFA0018
+YNL284C	MRPL10	Manually stripped Missing from plate in QFA0018
+YNL296W	YNL296W	Manually stripped Missing from plate in QFA0018
+YNL297C	MON2	Manually stripped Missing from plate in QFA0018
+YNL302C	RPS19B	Manually stripped Missing from plate in QFA0018
+YNL307C	MCK1	Manually stripped Missing from plate in QFA0018
+YNL312W	RFA2	Manually stripped Missing from plate in QFA0018
+YNL315C	ATP11	Manually stripped Missing from plate in QFA0018
+YNL317W	PFS2	Manually stripped Missing from plate in QFA0018
+YNL322C	KRE1	Manually stripped Missing from plate in QFA0018
+YNR006W	VPS27	Manually stripped Missing from plate in QFA0018
+YNR010W	CSE2	Manually stripped Missing from plate in QFA0018
+YNR026C	SEC12	Manually stripped Missing from plate in QFA0018
+YNR041C	COQ2	Manually stripped Missing from plate in QFA0018
+YNR050C	LYS9	Manually stripped Missing from plate in QFA0018
+YOL004W	SIN3	Manually stripped Missing from plate in QFA0018
+YOL005C	RPB11	Manually stripped Missing from plate in QFA0018
+YOL009C	MDM12	Manually stripped Missing from plate in QFA0018
+YOL049W	GSH2	Manually stripped Missing from plate in QFA0018
+YOL058W	ARG1	Manually stripped Missing from plate in QFA0018
+YOL081W	IRA2	Manually stripped Missing from plate in QFA0018
+YOL086C	ADH1	Manually stripped Missing from plate in QFA0018
+YOL095C	HMI1	Manually stripped Missing from plate in QFA0018
+YOL108C	INO4	Manually stripped Missing from plate in QFA0018
+YOL115W	PAP2	Manually stripped Missing from plate in QFA0018
+YOR004W	UTP23	Manually stripped Missing from plate in QFA0018
+YOR043W	WHI2	Manually stripped Missing from plate in QFA0018
+YOR065W	CYT1	Manually stripped Missing from plate in QFA0018
+YOR103C	OST2	Manually stripped Missing from plate in QFA0018
+YOR140W	SFL1	Manually stripped Missing from plate in QFA0018
+YOR141C	ARP8	Manually stripped Missing from plate in QFA0018
+YOR159C	SME1	Manually stripped Missing from plate in QFA0018
+YOR196C	LIP5	Manually stripped Missing from plate in QFA0018
+YOR212W	STE4	Manually stripped Missing from plate in QFA0018
+YOR216C	RUD3	Manually stripped Missing from plate in QFA0018
+YOR221C	MCT1	Manually stripped Missing from plate in QFA0018
+YOR224C	RPB8	Manually stripped Missing from plate in QFA0018
+YOR245C	DGA1	Manually stripped Missing from plate in QFA0018
+YOR246C	ENV9	Manually stripped Missing from plate in QFA0018
+YOR253W	NAT5	Manually stripped Missing from plate in QFA0018
+YOR275C	RIM20	Manually stripped Missing from plate in QFA0018
+YOR302W	YOR302W	Manually stripped Missing from plate in QFA0018
+YOR303W	CPA1	Manually stripped Missing from plate in QFA0018
+YOR312C	RPL20B	Manually stripped Missing from plate in QFA0018
+YOR360C	PDE2	Manually stripped Missing from plate in QFA0018
+YOR377W	ATF1	Manually stripped Missing from plate in QFA0018
+YPL010W	RET3	Manually stripped Missing from plate in QFA0018
+YPL041C	YPL041C	Manually stripped Missing from plate in QFA0018
+YPL057C	SUR1	Manually stripped Missing from plate in QFA0018
+YPL075W	GCR1	Manually stripped Missing from plate in QFA0018
+YPL090C	RPS6A	Manually stripped Missing from plate in QFA0018
+YPL143W	RPL33A	Manually stripped Missing from plate in QFA0018
+YPL154C	PEP4	Manually stripped Missing from plate in QFA0018
+YPL172C	COX10	Manually stripped Missing from plate in QFA0018
+YPL178W	CBC2	Manually stripped Missing from plate in QFA0018
+YPL218W	SAR1	Manually stripped Missing from plate in QFA0018
+YPL238C	YPL238C	Manually stripped Missing from plate in QFA0018
+YPL239W	YAR1	Manually stripped Missing from plate in QFA0018
+YPL244C	HUT1	Manually stripped Missing from plate in QFA0018
+YPL256C	CLN2	Manually stripped Missing from plate in QFA0018
+YPL261C	YPL261C	Manually stripped Missing from plate in QFA0018
+YPR024W	YME1	Manually stripped Missing from plate in QFA0018
+YPR030W	CSR2	Manually stripped Missing from plate in QFA0018
+YPR070W	MED1	Manually stripped Missing from plate in QFA0018
+YPR082C	DIB1	Manually stripped Missing from plate in QFA0018
+YPR144C	NOC4	Manually stripped Missing from plate in QFA0018
+YPR173C	VPS4	Manually stripped Missing from plate in QFA0018
