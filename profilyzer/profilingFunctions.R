@@ -90,7 +90,7 @@ plotSimilarFit=function(targ,prof,nearest=c(),farthest=c(),ylim=c()){
 		cols=c("red")
 	}else{
 		mlab="Fitness profiles"
-		cols=rainbow(length(targ))
+		cols=rainbow_hcl(length(targ))
 	}
 	cexlabs=1.5
 	if(length(targ)>1) cexlabs=1.5
@@ -103,7 +103,14 @@ plotSimilarFit=function(targ,prof,nearest=c(),farthest=c(),ylim=c()){
 	profdat=prof[,1:nExp]
 	delta=0.5
 	bcol="gray92"
-	pcol=rgb(1,0.65,0.65)
+	cr=colorRampPalette(c("magenta","blue","green","purple"),space="rgb")
+	nrcol=rep(rgb(1,0.65,0.65),dim(nearprof)[1])
+	nrcol=rainbow_hcl(dim(nearprof)[1])
+	#nrcol=cr(dim(nearprof)[1])
+	fcol=rep("grey",dim(farprof)[1])
+	#fcol=rainbow_hcl(dim(farprof)[1])
+	#frcol=cr(dim(farprof)[1])
+	
 	plot(NULL,xlab="",ylab="Fitness",main=mlab,ylim=ylim,cex.lab=2,xlim=c(1-delta,nExp+delta),cex.main=2,xaxt="n",yaxt="n")
 	maxvals=apply(profdat,2,max,na.rm=TRUE); minvals=apply(profdat,2,min,na.rm=TRUE)
 	polygon(c(1-delta,1:nExp,nExp+delta,nExp+delta,rev(1:nExp),1-delta),c(maxvals[1],maxvals,maxvals[length(maxvals)],minvals[length(minvals)],rev(minvals),minvals[1]),col=bcol,border=bcol)
@@ -111,16 +118,16 @@ plotSimilarFit=function(targ,prof,nearest=c(),farthest=c(),ylim=c()){
 	boxplot(profdat,col="lightblue",notch=FALSE,outline=FALSE,border="black",las=2,range=1.5,cex.axis=2,add=TRUE,lwd=1.5,pars = list(boxwex = 0.45, staplewex = 0.5, outwex = 0.5))
 	#points(maxvals,pch="-",col="darkgrey",cex=3)
 	#points(minvals,pch="-",col="darkgrey",cex=3)
-	for(i in 1:dim(nearprof)[1]) points(1:nExp,nearprof[i,],type="b",col=pcol,lwd=2)
-	for(i in 1:dim(farprof)[1]) points(1:nExp,farprof[i,],type="b",col="grey",lwd=2)
+	for(i in 1:dim(nearprof)[1]) points(1:nExp,nearprof[i,],type="b",col=nrcol[i],lwd=2)
+	for(i in 1:dim(farprof)[1]) points(1:nExp,farprof[i,],type="b",col=fcol[i],lwd=2)
 	for(i in seq_along(targ)) points(1:nExp,prof[targ[i],1:nExp],col=cols[i],type="b",lwd=3)
 	if(dim(nearprof)[1]>0){
-		text(nExp,nearprof[,nExp],tolower(rownames(nearprof)),cex=cexlabs,pos=4,col=pcol)
-		text(1,nearprof[,1],tolower(rownames(nearprof)),cex=cexlabs,pos=2,col=pcol)
+		text(nExp,nearprof[,nExp],tolower(rownames(nearprof)),cex=cexlabs,pos=4,col=nrcol)
+		text(1,nearprof[,1],tolower(rownames(nearprof)),cex=cexlabs,pos=2,col=nrcol)
 	}
 	if(dim(farprof)[1]>0){
-		text(nExp,farprof[,nExp],tolower(rownames(farprof)),cex=cexlabs,pos=4,col="grey")
-		text(1,farprof[,1],tolower(rownames(farprof)),cex=cexlabs,pos=2,col="grey")
+		text(nExp,farprof[,nExp],tolower(rownames(farprof)),cex=cexlabs,pos=4,col=fcol)
+		text(1,farprof[,1],tolower(rownames(farprof)),cex=cexlabs,pos=2,col=fcol)
 	}
 	for(i in seq_along(targ)){
 		text(nExp,prof[targ[i],nExp],tolower(targ[i]),cex=cexlabs,pos=4,col=cols[i])
