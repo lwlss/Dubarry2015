@@ -34,7 +34,7 @@ shinyUI(fluidPage(title="Profilyzer",
 		
 	column(3,
 		textInput("glist", label = h4("Target gene(s)"),value = "rad24"),
-		HTML('<h6>Nearest & farthest profiles are only highlighted when just a single target gene name is specified in the box above.  Note that nearest and farthest profiles can only be identified when the fitness of strains carrying mutations in the target gene is measured in all selected screens.</h6>'),
+		HTML('<h6>Nearest or farthest profiles are only highlighted when just a single target gene name is specified in the box above.  Note that nearest or farthest profiles can only be identified when the fitness of strains carrying mutations in the target gene is measured in all selected screens.</h6>'),
 		selectInput("ggroup", label = h4("Gene group"),choices = choiceList,selected = 1,selectize=TRUE),
 		h6("Optionally select groups of functionally related target genes from the drop-down list above instead of specifying them manually.  Select 'None' to return to highlighting 'Target gene(s)'")
 		), 

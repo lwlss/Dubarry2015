@@ -1,5 +1,6 @@
 library(shiny)
 library(xtable)
+library(colorspace)
 source("profilingFunctions.R",local=TRUE)
 
 # List of filenames to open

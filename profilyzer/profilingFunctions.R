@@ -76,6 +76,7 @@ findSimilar=function(target,sims){
 
 # Plot fitness profiles for most similar and most highly correlated genes
 plotSimilarFit=function(targ,prof,nearest=c(),farthest=c(),ylim=c()){
+	targ=targ[targ%in%rownames(prof)]
 	# Number of experiments
 	nExp=dim(prof)[2]-2
 
@@ -146,7 +147,7 @@ plotGenomewideSimilarity=function(targ,sims){
 	}else{
 		ylab="Difference from target"
 		xlab="ORFs ranked by difference from target"
-		cols=rainbow(length(targ))
+		cols=rainbow_hcl(length(targ))
 	}
 	op=par(mai=c(1,1,1,1))
 	plot(NULL,xlab=xlab,ylab=ylab,main="Genome-wide distribution of differences",type="l",ylim=ylim,xlim=c(0,1.1*dim(sims)[2]),cex.axis=2,cex.lab=2,cex.main=2)
